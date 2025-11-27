@@ -440,6 +440,7 @@ header ul a:hover{
     margin-top: 0;
     margin-bottom: 10px;
     max-width: 450px;
+    color: white;
 }
 
 .project-info p{
@@ -448,6 +449,7 @@ header ul a:hover{
     min-width: 300px;
     margin-bottom: 50px;
     margin-top: 0;
+    color: white;
 }
 
 .project-info button{
