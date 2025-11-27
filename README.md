@@ -1,0 +1,2 @@
+# Yashraj-Singh-Data-Analyst-Portfolio
+Welcome to my Data Analytics Portfolio! I specialize in data cleaning, analysis, visualization, and dashboard creation using tools like Python, SQL, Excel, Power BI, and Tableau. This repository showcases a collection of projects, case studies, and dashboards demonstrating my ability to solve real-world business problems using data.
