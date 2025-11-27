@@ -47,16 +47,6 @@ header{
     z-index: 999;
 }
 
-.left{
-    display: flex;
-    align-items: center;
-}
-
-.left img{
-    width: 40px;
-    margin: 0 15px;
-}
-
 
 header ul{
     display: flex;
@@ -146,6 +136,7 @@ header ul a:hover{
     width: 240px;
     background-color: #2200493d;
     box-shadow: 0 0 5px #72a1de84;
+    color: white;
 }
 
 .hero-info h1{
@@ -155,6 +146,7 @@ header ul a:hover{
     line-height: 70px;
     margin-top: 40px;
     margin-bottom: 30px;
+    color: white;
 }
 
 .hero-info p{
@@ -162,6 +154,7 @@ header ul a:hover{
     line-height: 25px;
     margin-bottom: 40px;
     font-size: 20px;
+    color: white;
 }
 
 .hero-info button{
@@ -267,6 +260,7 @@ header ul a:hover{
 .section-title{
     font-size: 40px;
     font-weight: 700;
+    color: white;
 }
 
 .info-cards{
@@ -387,6 +381,7 @@ header ul a:hover{
     height: 100vh;
     margin-top: 200px;
     margin-bottom: 700px;
+    color: white;
 }
 
 .project-card {
@@ -516,6 +511,7 @@ header ul a:hover{
     flex-direction: column;
     align-items: center;
     position: relative;
+    color: white;
 }
 
 .skills-box{
@@ -527,6 +523,7 @@ header ul a:hover{
     justify-content: center;
     mix-blend-mode:lighten;
     opacity: 0.7;
+    color: white;
 }
 
 .skills-image{
@@ -643,6 +640,7 @@ header ul a:hover{
     gap: 10%;
     align-items: center;
     position: relative;
+    color: white;
 }
 
 .contact-section h1{
